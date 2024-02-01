@@ -1,0 +1,19 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\STD-E1_Kevin\Project Outputs\Pick Place\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       31/01/24
+Time:       20:59
+Revision:   c2db226680ac82da3acac5344c27b9e2a0b4cf98
+Variant:    No variations
+Units used: mil
+
+Designator Comment                 Layer    Footprint          Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                   
+P?         SM02B-GHHD-B-TB(LF)(SN) TopLayer JST-SM02B-GHS-TB_V 2250.960      1421.665      90       "GH Disconnectable Crimp Style Connector, Pitch 1.25 mm, 1 x 2 Position, Height 4.25 mm, -25 to 85 degC, RoHS, Tape and Reel" 
+P?         SM04B-GHHD-B-TB(LF)(SN) TopLayer JST-SM04B-GHS-TB_V 1854.575      1259.205      0        "GH Disconnectable Crimp Style Connector, Pitch 1.25 mm, 1 x 4 Position, Height 4.25 mm, -25 to 85 degC, RoHS, Tape and Reel" 
+P?         SM02B-GHHD-B-TB(LF)(SN) TopLayer JST-SM02B-GHS-TB_V 1444.922      1421.665      270      "GH Disconnectable Crimp Style Connector, Pitch 1.25 mm, 1 x 2 Position, Height 4.25 mm, -25 to 85 degC, RoHS, Tape and Reel" 
+J?         XT30UPB-F               TopLayer AMASS-XT30UPB-F    2239.647      1787.402      270      "XT Series Lithium Battery Female Connector, 2-pin TH"                                                                        
+J?         XT30UPB-F               TopLayer AMASS-XT30UPB-F    1456.234      1787.402      270      "XT Series Lithium Battery Female Connector, 2-pin TH"                                                                        
+J?         XT30UPB-F               TopLayer AMASS-XT30UPB-F    1834.890      1818.406      180      "XT Series Lithium Battery Female Connector, 2-pin TH"                                                                        
